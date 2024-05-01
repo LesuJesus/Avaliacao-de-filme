@@ -1,8 +1,8 @@
 public class desafio {
     public static void main(String[] args) {
         double lesuNota = 9.0;
-        double maeNota = 6.5;
-        double filmeNota = (lesuNota + maeNota) / 2;
+        double nezzNota = 6.5;
+        double filmeNota = (lesuNota + nezzNota) / 2;
         String mensagem = "A nota do filme é: " + filmeNota;
 
         System.out.println(mensagem);
